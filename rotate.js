@@ -2,7 +2,7 @@
 
 
 function Update() {
-	var rotate : float = Time.deltaTime*80;
+	var rotate : float = Time.deltaTime*100;
 	transform.Rotate (rotate, 0, 0);
 }
 
