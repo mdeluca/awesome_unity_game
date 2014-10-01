@@ -1,5 +1,5 @@
 #pragma strict
-
+/*comment*/
 
 function Update() {
 	var rotate : float = Time.deltaTime*100;
